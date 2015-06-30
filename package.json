@@ -1,0 +1,22 @@
+{
+    "name":"mongodbdata",
+	"version":"0.0.0",
+	"private":"true",
+	 "dependencies": {
+        "debug": "~2.2.0",
+        "express": "~4.12.4",
+        "mongodb": "~2.0.33",
+        "monk": "~1.0.1",
+		"util": "~0.10.2"
+    }
+	 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
